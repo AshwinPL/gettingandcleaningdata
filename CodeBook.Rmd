@@ -5,10 +5,6 @@ date: "May 2, 2016"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Code Book
 This code book summarizes the resulting data fields in tidy.txt.
 
