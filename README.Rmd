@@ -1,6 +1,12 @@
-# gettingandcleaningdata
-Getting and Cleaning Data project
-
+---
+title: "ReadMe"
+author: "AshwinPL"
+date: "May 2, 2016"
+output: html_document
+---
+***
+# Getting and Cleaning Data project  
+***
 The R script, run_analysis.R, does the below:
 
 1. Download the dataset in the working directory
